@@ -32,3 +32,9 @@ $meteor run ios
 ---
 ####Add Meteor Packages
 $meteor add package-name
+
+---
+####Remove Insecure Packages
+$meteor remove insecure
+
+$meteor remove autopublish
