@@ -14,3 +14,7 @@ $meteor
 ---
 ####Demo CSS:
 [https://gist.github.com/flemdizzle/26f8e37d699aa0cc2482](https://gist.github.com/flemdizzle/26f8e37d699aa0cc2482)
+
+---
+####Open Mongo Console:
+$meteor mongo
