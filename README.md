@@ -18,3 +18,13 @@ $meteor
 ---
 ####Open Mongo Console:
 $meteor mongo
+
+---
+####Deploy Your App:
+$meteor deploy your_app_name.meteor.com
+
+---
+####Run on ios
+$meteor add-platform ios
+
+$meteor run ios
