@@ -28,3 +28,7 @@ $meteor deploy your_app_name.meteor.com
 $meteor add-platform ios
 
 $meteor run ios
+
+---
+####Add Meteor Packages
+$meteor add package-name
